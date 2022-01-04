@@ -1,0 +1,12 @@
+## Carpetas
+docs/
+temp/
+tmp/
+node_modules/
+
+
+## Archivos
+*.txt
+*.temp
+*.log*
+*.swp
